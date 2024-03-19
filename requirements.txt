@@ -1,0 +1,16 @@
+matplotlib
+numpy
+pyparsing
+scipy
+six
+h5py
+pandas
+tqdm
+librosa
+pillow
+opencv-python
+sounddevice
+soundfile
+tensorflow
+keras
+PyQt5
